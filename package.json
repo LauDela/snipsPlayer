@@ -1,0 +1,17 @@
+{
+  "name": "snipsPlayer",
+  "version": "0.0.0",
+  "description": "Voice controlled audio player",
+  "main": "action-audioPlayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^1.3.5",
+    "lodash": "^4.17.11",
+    "mqtt": "^2.18.8",
+    "play-sound": "^1.1.2"
+  }
+}
